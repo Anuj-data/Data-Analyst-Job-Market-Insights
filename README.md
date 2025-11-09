@@ -8,6 +8,11 @@ The project combines **SQL-based analysis** for data exploration and **Power BI 
 
 ---
 
+
+[👉 View the Interactive Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTZlMDkyYzctOTk3YS00NzAyLTk2YjctMjYxZWI5MTJiMjZkIiwidCI6ImQ4OWNiMGI5LWU3ODAtNDg0OC05ZjVkLTM4Yjk3NWFjZTBmMCJ9)
+
+
+
 ## 🧾 SQL Analysis Questions  
 
 The initial data analysis was performed using **SQL (PostgreSQL)** to derive key insights before building the dashboard.  
