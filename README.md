@@ -13,6 +13,12 @@ The project combines **SQL-based analysis** for data exploration and **Power BI 
 
 
 
+
+## 🖼️ Dashboard Preview  
+![Dashboard Screenshot](https://raw.githubusercontent.com/Anuj-data/Data-Analyst-Job-Market-Insights/refs/heads/main/Data%20analyst%20job%20market%20insights_page-0001.jpg)
+
+
+
 ## 🧾 SQL Analysis Questions  
 
 The initial data analysis was performed using **SQL (PostgreSQL)** to derive key insights before building the dashboard.  
