@@ -112,6 +112,13 @@ These SQL queries helped structure the dataset and guided the visualization stra
 
 ---
 
+## 🎥 Project Video Presentation
+
+Check out the video presentation of this project below 👇  
+
+[Watch the video](https://drive.google.com/file/d/1a6fdY1fp7GxQ935F_FoPOj3tghk7t3XT/view?usp=sharing)
+
+
 ## ⭐ Support  
 If you liked this project, don’t forget to **⭐ star the repository** and connect with me on LinkedIn!  
 Your support helps me build more real-world **Power BI + SQL** projects 🚀
